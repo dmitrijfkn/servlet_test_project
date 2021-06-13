@@ -10,3 +10,5 @@ To start the server, you should:
 6. (Optional) Start the tests;
 7. Add Tomcat to configurations;
 8. Start Tomcat.
+
+Java version - 1.8
