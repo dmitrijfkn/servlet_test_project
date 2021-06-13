@@ -394,7 +394,7 @@ public class DBManager {
 
     public boolean nameSurnameValidation(String string) {
         String regex = "^[\\p{L}.'-]+$";
-        return (string.matches(regex));
+        return (string.matches(regex) && !string.equals("null"));
     }
 
     /*
@@ -403,6 +403,6 @@ public class DBManager {
     */
     public boolean departmentNameValidation(String string) {
         String regex = "^[0-9а-яёіїєА-ЯЁІЇЄa-zA-Z ,\"'()-?№@!`]+$";
-        return (string.matches(regex) && (string.length() <= 30));
+        return (string.matches(regex) && (string.length() <= 30) && !string.equals("null"));
     }
 }

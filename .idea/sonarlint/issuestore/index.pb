@@ -1,0 +1,37 @@
+
+_
+/.idea/libraries/mysql_connector_java_8_0_25.xml,f\0\f0f166c9e6a3b58a436fc2a8f2bc7a43f55e31fb
+`
+0.idea/libraries/mysql_connector_java_8_0_251.xml,2\3\239d29b8c5dd9bed0d0d89bb6b47f6bc2ca465bd
+S
+#src/main/java/db/ConnectionURL.java,1\a\1a916ed1b467d90f96c9509568b92e9860977155
+V
+&src/main/java/entities/Department.java,7\a\7a9c5ddb61a7ba8621e2072017a9e59b756d8d48
+T
+$src/main/java/entities/Employee.java,d\5\d5cbd68cfae6b3f6edb1e1d51db1ae8310e01776
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+Q
+!src/main/webapp/addDepartment.jsp,1\c\1c1a7493f79bd6268a1c77966bf6c9620c681bb8
+O
+src/main/webapp/addEmployee.jsp,7\c\7c65912e8b3ea434884beb2f9579d5dc68b14f03
+T
+$src/main/webapp/changeDepartment.jsp,9\5\95640d0cfbcc1d613a315b91a6e4cc883eae7371
+R
+"src/main/webapp/changeEmployee.jsp,3\3\335c4bddff57a46a71b9d2a565da5f2948e861de
+T
+$src/main/webapp/deleteDepartment.jsp,6\d\6d7350c39f1c3b04a7e0721b02f0835fb7ac16c2
+R
+"src/main/webapp/deleteEmployee.jsp,6\e\6edc9823e544dbb3f65a7a8d14cd1279852262fe
+S
+#src/main/webapp/departmentTable.jsp,2\d\2dcd24fa325c030f211cbb26f9a89605008f86a5
+R
+"src/main/webapp/employeesTable.jsp,a\f\af8e8f5c321aa4d11cc9932f20cfd52c4b36e3e2
+J
+src/main/webapp/header.jsp,0\5\051b0ac501a865704d2b6b36f8cfabfa311becc2
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+@
+Servlet_test.iml,e\b\ebd879f73c34013e9d543039a66c4a36283c6b50
