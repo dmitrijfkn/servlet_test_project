@@ -1,0 +1,15 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+</head>
+<body>
+<table>
+    <tr>
+        <td><a href="index">Main page</a></td>
+        <td><a href="departmentTable">List of departments</a></td>
+        <td><a href="employeesTable">List of employees</a></td>
+    </tr>
+</table>
+<br>
+</body>
+</html>
