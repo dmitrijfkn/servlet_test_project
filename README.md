@@ -1,5 +1,5 @@
 # servlet_test_project
-This is my first test project on servlets, which includes MySQL, HTML and some regular expressions.
+This is  test project on servlets, which is done completely wrong and needs to be fixed, but it works.
 
 To start the server, you should:
 1. Open the project in the IDE;
